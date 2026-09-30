@@ -1,0 +1,72 @@
+body {
+  width: 100%;
+}
+
+.card {
+  width: 340px;
+  border: 1px solid #d1d5dc;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+img {
+  width: 100%;
+}
+
+.main {
+  padding: 32px 24px;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.addInCart {
+  font-size: 18px;
+  color: white;
+  background-color: #ff133e;
+  border: solid #ff133e;
+  margin-bottom: 8px;
+  padding: 12px;
+  width: 292px;
+  cursor: pointer;
+}
+
+.buy {
+  font-size: 18px;
+  color: #ff133e;
+  background-color: white;
+  border: solid #ff133e;
+  margin-bottom: 24px;
+  padding: 12px;
+  width: 292px;
+  cursor: pointer;
+}
+
+.hr {
+  width: 100%;
+  border-top: 1px #d1d5dc solid;
+}
+
+.classInfo {
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+ul {
+  list-style: circle;
+  padding-left: 0.3em;
+}
+
+li {
+  margin: 12px;
+}
+
+.CTA {
+  border-top: 1px solid #d1d5dc;
+  padding: 16px 24px;
+  font-size: 15px;
+  text-align: center;
+}
